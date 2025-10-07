@@ -33,7 +33,7 @@ Figure 3. Aliasing of (b)
 
 ## 💡연구의 필요성
 Hirokazu Yagou 외 2인은 필터링이 적용된 결과물에 Laplacian Smoothing으로 후처리를 하여 문제 개선 시도함<br>
-따라서, High-Boost Mesh Filtering에서 **자체적으로 문제 현상을 방지 또는 개선하는 기능**이 필요
+따라서, High-Boost Mesh Filtering에서 **자체적으로 문제 현상을 방지 또는 개선하는 기능**이 필요함
 
 <hr>
 
